@@ -1,0 +1,14 @@
+Para ejecutar el archivo:
+
+En la consola llamar a principal para listar los cursos:
+
+node principal
+
+En la consola llamar a principal para inscribir un curso:
+
+node principal inscribir -i=1 -n=Pepito -x=12345
+
+
+i es el nombre del curso
+n el nombre del estudiante
+x es la cédula
